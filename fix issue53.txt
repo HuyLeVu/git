@@ -1,1 +1,3 @@
 fix issue53 -- fix by testing  !
+
+fix stash in iss53
